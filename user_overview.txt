@@ -1,0 +1,16 @@
+Total users registered: 2
+Total Tasks registered: 4
+
+User: admin
+Total number of tasks assigned to admin: 2
+% of tasks assigned 50.0
+% of tasks assigned and completed 50.0
+% of tasks incomplete 50.0
+% of tasks incomplete and overdue 50.0
+
+User: dev
+Total number of tasks assigned to dev: 2
+% of tasks assigned 50.0
+% of tasks assigned and completed 0.0
+% of tasks incomplete 100.0
+% of tasks incomplete and overdue 0.0
