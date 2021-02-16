@@ -17,3 +17,5 @@ There is a menu option for users as well as a menu option for admins.
 
 When a task is created the date will be automatically filled in. 
 The program can search for which tasks are overdue by comparing them to the deadline date.
+
+The focal points of this project were: Lists, functions and string handling.
